@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.httpclient.LoginParameBea">
+<select  id="login"  resultType="com.httpclient.LoginParameBean"  > 
+	select * from login_parames where id=#{id} 
+</select>
+<insert  id="login1"   parameterType="com.httpclient.LoginParameBean" > 
+	insert into login_parames values(#{id},#{start},#{value},#{end},#{value2})
+</insert>
+
+</mapper>
