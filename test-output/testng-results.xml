@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13057" started-at="2019-08-08T04:35:47Z" finished-at="2019-08-08T04:36:00Z">
+    <groups>
+    </groups>
+    <test name="testdome" duration-ms="13057" started-at="2019-08-08T04:35:47Z" finished-at="2019-08-08T04:36:00Z">
+      <class name="com.wuchengxu.test.testdome.BaseClassTest">
+        <test-method status="PASS" signature="oriver()[pri:0, instance:com.wuchengxu.test.testdome.BaseClassTest@46d56d67]" name="oriver" duration-ms="13035" started-at="2019-08-08T04:35:47Z" finished-at="2019-08-08T04:36:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oriver -->
+      </class> <!-- com.wuchengxu.test.testdome.BaseClassTest -->
+    </test> <!-- testdome -->
+  </suite> <!-- Suite -->
+</testng-results>
