@@ -106,7 +106,7 @@
                 <version>2.21.0</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>src\test\java\com\wuchengxu\test\testdome3\testng.xml</suiteXmlFile>
+                        <suiteXmlFile>E:\eclipse\testdome3\testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <skipTests>flase</skipTests> 
                     <!-- 加入编码设置，否则生成的报告会中文乱码 -->
