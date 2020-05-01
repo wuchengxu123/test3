@@ -3,7 +3,7 @@
 <suite name="Suite"   >
 	<test name="testdome" >
 		<classes>
-			<class name="com.httpclient.GetRequestDome" />
+			<class name="getandpost.LoginApiTest" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
